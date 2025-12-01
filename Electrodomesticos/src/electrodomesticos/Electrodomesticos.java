@@ -19,7 +19,7 @@ public class Electrodomesticos {
     protected static final char CONSUMO_ENERGETICO_DEF = 'F';
     protected static final double PESO_DEF = 5;
     
-    private static final String[] COLORES_VALIDOS = ("blanco", "negro", "rojo", "azul", "gris"); 
+    private static final String[] COLORES_VALIDOS = {"blanco", "negro", "azul", "rojo", "gris"}; 
     
     //Constructor por defecto
     public Electrodomesticos() {
